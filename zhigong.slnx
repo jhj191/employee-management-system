@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zhigong.vcxproj" Id="4f95074a-50a3-4816-87f4-d40db7dc3587" />
+</Solution>
